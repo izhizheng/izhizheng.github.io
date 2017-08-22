@@ -31,7 +31,7 @@ google_analytics: UA-97930384-1
 
 # Author information:
 author:
-  resume: /resume
+#  resume: /resume
   name: Zhang Zhizheng     #the name of Blog section
   about_me: I'm Zhang Zhizheng, a programmer. This is my online home & blog, where I share thoughts about development, my daily life and other insteresting topics. Feel free to contact me by email if you have any questions.
  
