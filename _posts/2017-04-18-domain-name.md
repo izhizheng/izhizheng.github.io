@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "domain name"
+title:  "Domain name"
 date:   2017-04-18 12:30:01 +0800
 categories: [it]
-excerpt: domain name
+excerpt: Domain name
 tags:
   - domain
   - name
