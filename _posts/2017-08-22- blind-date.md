@@ -8,4 +8,4 @@ tags:
   - blind date
 ---
 
-blind date
+A blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance.
