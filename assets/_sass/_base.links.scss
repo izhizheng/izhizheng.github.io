@@ -34,13 +34,6 @@ blockquote a {
 }
 
 .btn-blue {
-  border: none;
-  color: $white;
-  background-color: $blue;
-  &:hover,
-  &:active {
-    background-color: $light-red;
-  }
 }
 
 .btn-white {
@@ -51,6 +44,14 @@ blockquote a {
   &:active {
     background-color: rgba(255, 255, 255, 0.2);
   }
+}
+
+.btn-left {
+    border-radius: 1em 1em 1em 0;
+}
+
+.btn-right {
+    border-radius: 1em 1em 0 1em;
 }
 
 .btn-top {
