@@ -13,6 +13,15 @@ blockquote a {
   }
 }
 
+.copyright a {
+  font-weight: normal;
+  color: $white;
+  text-shadow: none;
+  &:hover {
+    border-bottom: 1px dashed $light-red;
+  }
+}
+
 /**
  * btn
  */
