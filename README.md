@@ -1,7 +1,2 @@
-# Blog of Zhang Zhizheng
-This is a Jekyll theme called Ice bear.
+本站使用主题 [jekyll-theme-next](https://github.com/simpleyyt/jekyll-theme-next)，并在此基础上做了一定的配置修改。
 
-To learn how to install and use this theme, please check out the [installation guide](http://kongsong.me/blog/ice-bear-jekyll-theme/) for more information.
-
-## License
-This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
