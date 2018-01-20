@@ -10,9 +10,9 @@ tags:
   - post
 ---
 
-# Change List
+## Change List
 - Change /blog/ to /post/.
 - Change /blog/&lt;title&gt;/ to /post/&lt;title&gt;/.
 
-# References
+## References
 - [为修改了链接地址的博客进行重定向 ](https://walterlv.github.io/post/redirect-for-blog-links){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
