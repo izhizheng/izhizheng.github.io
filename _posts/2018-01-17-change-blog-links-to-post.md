@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Change List
-- Change /blog/ to /post/.
+- Change /blog/ to /archives/.
 - Change /blog/&lt;title&gt;/ to /post/&lt;title&gt;/.
 
 ## References
