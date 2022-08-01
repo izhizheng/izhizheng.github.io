@@ -215,12 +215,12 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  Twitter: https://twitter.com/izhizheng
-  Facebook: https://facebook.com/izhizheng
-  Instagram: https://instagram.com/izhizheng
-  Email: mailto:zhizhengzhang@outlook.com
+  #Twitter: https://twitter.com/xxxxx
+  #Facebook: https://facebook.com/xxxxx
+  #Instagram: https://instagram.com/xxxxx
+  #Email: mailto:xxxxx@xxxxx.com
   GitHub: https://github.com/izhizheng
-  Stack Overflow: https://stackoverflow.com/users/7888730
+  #Stack Overflow: https://stackoverflow.com/users/xxxxx
 
 # Social Links Icons
 # Icon Mapping:
